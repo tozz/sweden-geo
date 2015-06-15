@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "SE-O.1440",
+    "name": "Ale kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1489",
+    "name": "Alingsås kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-G.0764",
+    "name": "Alvesta kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-F.0604",
+    "name": "Aneby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-U.1984",
+    "name": "Arboga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-BD.2506",
+    "name": "Arjeplogs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-BD.2505",
+    "name": "Arvidsjaurs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-S.1784",
+    "name": "Arvika kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-T.1882",
+    "name": "Askersunds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-W.2084",
+    "name": "Avesta kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-O.1460",
+    "name": "Bengtsfors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-Z.2326",
+    "name": "Bergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-AC.2403",
+    "name": "Bjurholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-M.1260",
+    "name": "Bjuvs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-BD.2582",
+    "name": "Bodens kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-O.1443",
+    "name": "Bollebygds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-X.2183",
+    "name": "Bollnäs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-H.0885",
+    "name": "Borgholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-W.2081",
+    "name": "Borlänge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-O.1490",
+    "name": "Borås kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-AB.0127",
+    "name": "Botkyrka kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-E.0560",
+    "name": "Boxholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-M.1272",
+    "name": "Bromölla kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-Z.2305",
+    "name": "Bräcke kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-M.1231",
+    "name": "Burlövs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-M.1278",
+    "name": "Båstads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1438",
+    "name": "Dals-Eds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-AB.0162",
+    "name": "Danderyds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-T.1862",
+    "name": "Degerfors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-AC.2425",
+    "name": "Dorotea kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-S.1730",
+    "name": "Eda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-AB.0125",
+    "name": "Ekerö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-F.0686",
+    "name": "Eksjö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-H.0862",
+    "name": "Emmaboda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-C.0381",
+    "name": "Enköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-D.0484",
+    "name": "Eskilstuna kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-M.1285",
+    "name": "Eslövs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1445",
+    "name": "Essunga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-U.1982",
+    "name": "Fagersta kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-N.1382",
+    "name": "Falkenbergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-N"
+    ]
+  },
+  {
+    "id": "SE-O.1499",
+    "name": "Falköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-W.2080",
+    "name": "Falu kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-S.1782",
+    "name": "Filipstads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-E.0562",
+    "name": "Finspångs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-D.0482",
+    "name": "Flens kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-S.1763",
+    "name": "Forshaga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-O.1439",
+    "name": "Färgelanda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-W.2026",
+    "name": "Gagnefs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-F.0662",
+    "name": "Gislaveds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-D.0461",
+    "name": "Gnesta kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-F.0617",
+    "name": "Gnosjö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-I.0980",
+    "name": "Gotlands kommun",
+    "country": "SE",
+    "parents": [
+      "SE-I"
+    ]
+  },
+  {
+    "id": "SE-S.1764",
+    "name": "Grums kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-O.1444",
+    "name": "Grästorps kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1447",
+    "name": "Gullspångs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-BD.2523",
+    "name": "Gällivare kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-X.2180",
+    "name": "Gävle kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-O.1480",
+    "name": "Göteborgs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1471",
+    "name": "Götene kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-F.0643",
+    "name": "Habo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-S.1783",
+    "name": "Hagfors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-T.1861",
+    "name": "Hallsbergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-U.1961",
+    "name": "Hallstahammars kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-N.1380",
+    "name": "Halmstads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-N"
+    ]
+  },
+  {
+    "id": "SE-S.1761",
+    "name": "Hammarö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-AB.0136",
+    "name": "Haninge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-BD.2583",
+    "name": "Haparanda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-C.0331",
+    "name": "Heby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-W.2083",
+    "name": "Hedemora kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-M.1283",
+    "name": "Helsingborgs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1466",
+    "name": "Herrljunga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1497",
+    "name": "Hjo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-X.2104",
+    "name": "Hofors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-AB.0126",
+    "name": "Huddinge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-X.2184",
+    "name": "Hudiksvalls kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-H.0860",
+    "name": "Hultsfreds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-N.1315",
+    "name": "Hylte kommun",
+    "country": "SE",
+    "parents": [
+      "SE-N"
+    ]
+  },
+  {
+    "id": "SE-T.1863",
+    "name": "Hällefors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-Z.2361",
+    "name": "Härjedalens kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-Y.2280",
+    "name": "Härnösands kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Y"
+    ]
+  },
+  {
+    "id": "SE-O.1401",
+    "name": "Härryda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-M.1293",
+    "name": "Hässleholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-C.0305",
+    "name": "Håbo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-M.1284",
+    "name": "Höganäs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-H.0821",
+    "name": "Högsby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-M.1266",
+    "name": "Hörby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-M.1267",
+    "name": "Höörs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-BD.2510",
+    "name": "Jokkmokks kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-AB.0123",
+    "name": "Järfälla kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-F.0680",
+    "name": "Jönköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-BD.2514",
+    "name": "Kalix kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-H.0880",
+    "name": "Kalmar kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-O.1446",
+    "name": "Karlsborgs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-K.1082",
+    "name": "Karlshamns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-K"
+    ]
+  },
+  {
+    "id": "SE-T.1883",
+    "name": "Karlskoga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-K.1080",
+    "name": "Karlskrona kommun",
+    "country": "SE",
+    "parents": [
+      "SE-K"
+    ]
+  },
+  {
+    "id": "SE-S.1780",
+    "name": "Karlstads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-D.0483",
+    "name": "Katrineholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-S.1715",
+    "name": "Kils kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-E.0513",
+    "name": "Kinda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-BD.2584",
+    "name": "Kiruna kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-M.1276",
+    "name": "Klippans kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-C.0330",
+    "name": "Knivsta kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-Y.2282",
+    "name": "Kramfors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Y"
+    ]
+  },
+  {
+    "id": "SE-M.1290",
+    "name": "Kristianstads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-S.1781",
+    "name": "Kristinehamns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-Z.2309",
+    "name": "Krokoms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-T.1881",
+    "name": "Kumla kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-N.1384",
+    "name": "Kungsbacka kommun",
+    "country": "SE",
+    "parents": [
+      "SE-N"
+    ]
+  },
+  {
+    "id": "SE-U.1960",
+    "name": "Kungsörs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-O.1482",
+    "name": "Kungälvs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-M.1261",
+    "name": "Kävlinge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-U.1983",
+    "name": "Köpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-N.1381",
+    "name": "Laholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-N"
+    ]
+  },
+  {
+    "id": "SE-M.1282",
+    "name": "Landskrona kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-T.1860",
+    "name": "Laxå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-T.1814",
+    "name": "Lekebergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-W.2029",
+    "name": "Leksands kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-O.1441",
+    "name": "Lerums kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-G.0761",
+    "name": "Lessebo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-AB.0186",
+    "name": "Lidingö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-O.1494",
+    "name": "Lidköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1462",
+    "name": "Lilla Edets kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-T.1885",
+    "name": "Lindesbergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-E.0580",
+    "name": "Linköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-G.0781",
+    "name": "Ljungby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-X.2161",
+    "name": "Ljusdals kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-T.1864",
+    "name": "Ljusnarsbergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-M.1262",
+    "name": "Lomma kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-W.2085",
+    "name": "Ludvika kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-BD.2580",
+    "name": "Luleå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-M.1281",
+    "name": "Lunds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-AC.2481",
+    "name": "Lycksele kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-O.1484",
+    "name": "Lysekils kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-M.1280",
+    "name": "Malmö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-W.2023",
+    "name": "Malung-Sälens kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-AC.2418",
+    "name": "Malå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-O.1493",
+    "name": "Mariestads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-G.0767",
+    "name": "Markaryds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-O.1463",
+    "name": "Marks kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1461",
+    "name": "Melleruds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-E.0586",
+    "name": "Mjölby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-W.2062",
+    "name": "Mora kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-E.0583",
+    "name": "Motala kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-F.0642",
+    "name": "Mullsjö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-O.1430",
+    "name": "Munkedals kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-S.1762",
+    "name": "Munkfors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-O.1481",
+    "name": "Mölndals kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-H.0861",
+    "name": "Mönsterås kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-H.0840",
+    "name": "Mörbylånga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-AB.0182",
+    "name": "Nacka kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-T.1884",
+    "name": "Nora kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-U.1962",
+    "name": "Norbergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-X.2132",
+    "name": "Nordanstigs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-AC.2401",
+    "name": "Nordmalings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-E.0581",
+    "name": "Norrköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-AB.0188",
+    "name": "Norrtälje kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-AC.2417",
+    "name": "Norsjö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-H.0881",
+    "name": "Nybro kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-AB.0140",
+    "name": "Nykvarns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-D.0480",
+    "name": "Nyköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-AB.0192",
+    "name": "Nynäshamns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-F.0682",
+    "name": "Nässjö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-X.2101",
+    "name": "Ockelbo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-K.1060",
+    "name": "Olofströms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-K"
+    ]
+  },
+  {
+    "id": "SE-W.2034",
+    "name": "Orsa kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-O.1421",
+    "name": "Orusts kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-M.1273",
+    "name": "Osby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-H.0882",
+    "name": "Oskarshamns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-X.2121",
+    "name": "Ovanåkers kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-D.0481",
+    "name": "Oxelösunds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-BD.2521",
+    "name": "Pajala kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-O.1402",
+    "name": "Partille kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-M.1275",
+    "name": "Perstorps kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-BD.2581",
+    "name": "Piteå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-Z.2303",
+    "name": "Ragunda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-AC.2409",
+    "name": "Robertsfors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-K.1081",
+    "name": "Ronneby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-K"
+    ]
+  },
+  {
+    "id": "SE-W.2031",
+    "name": "Rättviks kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-U.1981",
+    "name": "Sala kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-AB.0128",
+    "name": "Salems kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-X.2181",
+    "name": "Sandvikens kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-AB.0191",
+    "name": "Sigtuna kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-M.1291",
+    "name": "Simrishamns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-M.1265",
+    "name": "Sjöbo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1495",
+    "name": "Skara kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-AC.2482",
+    "name": "Skellefteå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-U.1904",
+    "name": "Skinnskattebergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-M.1264",
+    "name": "Skurups kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1496",
+    "name": "Skövde kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-W.2061",
+    "name": "Smedjebackens kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-Y.2283",
+    "name": "Sollefteå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Y"
+    ]
+  },
+  {
+    "id": "SE-AB.0163",
+    "name": "Sollentuna kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-AB.0184",
+    "name": "Solna kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-AC.2422",
+    "name": "Sorsele kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-O.1427",
+    "name": "Sotenäs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-M.1230",
+    "name": "Staffanstorps kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1415",
+    "name": "Stenungsunds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-AB.0180",
+    "name": "Stockholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-S.1760",
+    "name": "Storfors kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-AC.2421",
+    "name": "Storumans kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-D.0486",
+    "name": "Strängnäs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-O.1486",
+    "name": "Strömstads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-Z.2313",
+    "name": "Strömsunds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-AB.0183",
+    "name": "Sundbybergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-Y.2281",
+    "name": "Sundsvalls kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Y"
+    ]
+  },
+  {
+    "id": "SE-S.1766",
+    "name": "Sunne kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-U.1907",
+    "name": "Surahammars kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-M.1214",
+    "name": "Svalövs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-M.1263",
+    "name": "Svedala kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1465",
+    "name": "Svenljunga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-S.1785",
+    "name": "Säffle kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-W.2082",
+    "name": "Säters kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-F.0684",
+    "name": "Sävsjö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-X.2182",
+    "name": "Söderhamns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-X"
+    ]
+  },
+  {
+    "id": "SE-E.0582",
+    "name": "Söderköpings kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-AB.0181",
+    "name": "Södertälje kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-K.1083",
+    "name": "Sölvesborgs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-K"
+    ]
+  },
+  {
+    "id": "SE-O.1435",
+    "name": "Tanums kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1472",
+    "name": "Tibro kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1498",
+    "name": "Tidaholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-C.0360",
+    "name": "Tierps kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-Y.2262",
+    "name": "Timrå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Y"
+    ]
+  },
+  {
+    "id": "SE-G.0763",
+    "name": "Tingsryds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-O.1419",
+    "name": "Tjörns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-M.1270",
+    "name": "Tomelilla kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-S.1737",
+    "name": "Torsby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-H.0834",
+    "name": "Torsås kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-O.1452",
+    "name": "Tranemo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-F.0687",
+    "name": "Tranås kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-M.1287",
+    "name": "Trelleborgs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1488",
+    "name": "Trollhättans kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-D.0488",
+    "name": "Trosa kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-AB.0138",
+    "name": "Tyresö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-AB.0160",
+    "name": "Täby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-O.1473",
+    "name": "Töreboda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1485",
+    "name": "Uddevalla kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-O.1491",
+    "name": "Ulricehamns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-AC.2480",
+    "name": "Umeå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-AB.0114",
+    "name": "Upplands Väsby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-AB.0139",
+    "name": "Upplands-Bro kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-C.0380",
+    "name": "Uppsala kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-G.0760",
+    "name": "Uppvidinge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-E.0584",
+    "name": "Vadstena kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-F.0665",
+    "name": "Vaggeryds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-E.0563",
+    "name": "Valdemarsviks kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-AB.0115",
+    "name": "Vallentuna kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-W.2021",
+    "name": "Vansbro kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-O.1470",
+    "name": "Vara kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-N.1383",
+    "name": "Varbergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-N"
+    ]
+  },
+  {
+    "id": "SE-AB.0187",
+    "name": "Vaxholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-M.1233",
+    "name": "Vellinge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-F.0685",
+    "name": "Vetlanda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-AC.2462",
+    "name": "Vilhelmina kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-H.0884",
+    "name": "Vimmerby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-AC.2404",
+    "name": "Vindelns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-D.0428",
+    "name": "Vingåkers kommun",
+    "country": "SE",
+    "parents": [
+      "SE-D"
+    ]
+  },
+  {
+    "id": "SE-O.1487",
+    "name": "Vänersborgs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-AC.2460",
+    "name": "Vännäs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-AB.0120",
+    "name": "Värmdö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-F.0683",
+    "name": "Värnamo kommun",
+    "country": "SE",
+    "parents": [
+      "SE-F"
+    ]
+  },
+  {
+    "id": "SE-H.0883",
+    "name": "Västerviks kommun",
+    "country": "SE",
+    "parents": [
+      "SE-H"
+    ]
+  },
+  {
+    "id": "SE-U.1980",
+    "name": "Västerås kommun",
+    "country": "SE",
+    "parents": [
+      "SE-U"
+    ]
+  },
+  {
+    "id": "SE-G.0780",
+    "name": "Växjö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-O.1442",
+    "name": "Vårgårda kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-E.0512",
+    "name": "Ydre kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-M.1286",
+    "name": "Ystads kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-G.0765",
+    "name": "Älmhults kommun",
+    "country": "SE",
+    "parents": [
+      "SE-G"
+    ]
+  },
+  {
+    "id": "SE-W.2039",
+    "name": "Älvdalens kommun",
+    "country": "SE",
+    "parents": [
+      "SE-W"
+    ]
+  },
+  {
+    "id": "SE-C.0319",
+    "name": "Älvkarleby kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-BD.2560",
+    "name": "Älvsbyns kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-M.1292",
+    "name": "Ängelholms kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-O.1492",
+    "name": "Åmåls kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-Y.2260",
+    "name": "Ånge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Y"
+    ]
+  },
+  {
+    "id": "SE-Z.2321",
+    "name": "Åre kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-S.1765",
+    "name": "Årjängs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-S"
+    ]
+  },
+  {
+    "id": "SE-AC.2463",
+    "name": "Åsele kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AC"
+    ]
+  },
+  {
+    "id": "SE-M.1277",
+    "name": "Åstorps kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-E.0561",
+    "name": "Åtvidabergs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-O.1407",
+    "name": "Öckerö kommun",
+    "country": "SE",
+    "parents": [
+      "SE-O"
+    ]
+  },
+  {
+    "id": "SE-E.0509",
+    "name": "Ödeshögs kommun",
+    "country": "SE",
+    "parents": [
+      "SE-E"
+    ]
+  },
+  {
+    "id": "SE-T.1880",
+    "name": "Örebro kommun",
+    "country": "SE",
+    "parents": [
+      "SE-T"
+    ]
+  },
+  {
+    "id": "SE-M.1257",
+    "name": "Örkelljunga kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-Y.2284",
+    "name": "Örnsköldsviks kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Y"
+    ]
+  },
+  {
+    "id": "SE-Z.2380",
+    "name": "Östersunds kommun",
+    "country": "SE",
+    "parents": [
+      "SE-Z"
+    ]
+  },
+  {
+    "id": "SE-AB.0117",
+    "name": "Österåkers kommun",
+    "country": "SE",
+    "parents": [
+      "SE-AB"
+    ]
+  },
+  {
+    "id": "SE-C.0382",
+    "name": "Östhammars kommun",
+    "country": "SE",
+    "parents": [
+      "SE-C"
+    ]
+  },
+  {
+    "id": "SE-M.1256",
+    "name": "Östra Göinge kommun",
+    "country": "SE",
+    "parents": [
+      "SE-M"
+    ]
+  },
+  {
+    "id": "SE-BD.2513",
+    "name": "Överkalix kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  },
+  {
+    "id": "SE-BD.2518",
+    "name": "Övertorneå kommun",
+    "country": "SE",
+    "parents": [
+      "SE-BD"
+    ]
+  }
+]

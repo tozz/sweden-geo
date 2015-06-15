@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Blekinge län",
+    "code": "SE-K",
+    "alternative": "SE-10",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Dalarnas län",
+    "code": "SE-W",
+    "alternative": "SE-20",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Gotlands län",
+    "code": "SE-I",
+    "alternative": "SE-09",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Gävleborgs län",
+    "code": "SE-X",
+    "alternative": "SE-21",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Hallands län",
+    "code": "SE-N",
+    "alternative": "SE-13",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Jämtlands län",
+    "code": "SE-Z",
+    "alternative": "SE-23",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Jönköpings län",
+    "code": "SE-F",
+    "alternative": "SE-06",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Kalmar län",
+    "code": "SE-H",
+    "alternative": "SE-08",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Kronobergs län",
+    "code": "SE-G",
+    "alternative": "SE-07",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Norrbottens län",
+    "code": "SE-BD",
+    "alternative": "SE-25",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Skåne län",
+    "code": "SE-M",
+    "alternative": "SE-12",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Stockholms län",
+    "code": "SE-AB",
+    "alternative": "SE-01",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Södermanlands län",
+    "code": "SE-D",
+    "alternative": "SE-04",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Uppsala län",
+    "code": "SE-C",
+    "alternative": "SE-03",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Värmlands län",
+    "code": "SE-S",
+    "alternative": "SE-17",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Västerbottens län",
+    "code": "SE-AC",
+    "alternative": "SE-24",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Västernorrlands län",
+    "code": "SE-Y",
+    "alternative": "SE-22",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Västmanlands län",
+    "code": "SE-U",
+    "alternative": "SE-19",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Västra Götalands län",
+    "code": "SE-O",
+    "alternative": "SE-14",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Örebro län",
+    "code": "SE-T",
+    "alternative": "SE-18",
+    "country": "SE",
+    "category": "county"
+  },
+  {
+    "name": "Östergötlands län",
+    "code": "SE-E",
+    "alternative": "SE-05",
+    "country": "SE",
+    "category": "county"
+  }
+]
